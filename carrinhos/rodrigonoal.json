@@ -1,0 +1,16 @@
+{
+    "produtos": [
+        {
+            "id": 10,
+            "nome": "Feijão Carioca Tipo 1 CAMIL Pacote 1kg",
+            "preco": 799,
+            "categoria": "Bazar",
+            "quantidade": 2
+        }
+    ],
+    "subtotal": 1598,
+    "dataDeEntrega": "2021-06-02T23:43:54.206Z",
+    "valorDoFrete": 5000,
+    "cupomDeDesconto": false,
+    "totalAPagar": 6598
+}
